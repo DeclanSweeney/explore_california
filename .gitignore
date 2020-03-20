@@ -1,0 +1,9 @@
+#Comment 
+Temp.txt
+*.zip
+*.gz
+log/*.log
+log/*log.[0-9]
+assets/photoshop/
+assets/videos/
+!assets/viedos/tour_*.mp4
